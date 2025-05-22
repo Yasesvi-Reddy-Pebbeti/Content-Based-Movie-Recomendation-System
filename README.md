@@ -52,7 +52,7 @@ Content-Based-Movie-Recommendation-System/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Yasesvi-Reddy-Pebbeti/Content-Based-Movie-Recommendation-System.git
+git clone https://github.com/YOUR_USERNAME/Content-Based-Movie-Recommendation-System.git
 ```
 
 2. Navigate to the folder:
@@ -94,16 +94,22 @@ This app uses a **CountVectorizer** over combined metadata features (cast, direc
 
 ## 📸 Screenshots
 
-> Add your screenshots here for:
-> - Login/Register Window
-> - Recommendation results
-> - About Movie popup
+### 🪪 Login / Register Window
+![Login Window](screenshots/login_register.png)
+
+### 🎯 Recommendation Results
+![Recommendations](screenshots/recommendations.png)
+
+### 🎬 About Movie Details
+![About Movie](screenshots/about_movie.png)
+
+> Make sure to place your actual screenshot images inside a folder named `screenshots/` in your repo.
 
 ---
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Yash (Yasesvi Reddy Pebbeti)](https://github.com/Yasesvi-Reddy-Pebbeti)
+Made with ❤️ by [Yash (Yasesvi Reddy Pebbeti)](https://github.com/YOUR_USERNAME)
 
 ---
 
