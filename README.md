@@ -92,21 +92,6 @@ This app uses a **CountVectorizer** over combined metadata features (cast, direc
 
 ---
 
-## 📸 Screenshots
-
-### 🪪 Login / Register Window
-![Login Window](screenshots/login_register.png)
-
-### 🎯 Recommendation Results
-![Recommendations](screenshots/recommendations.png)
-
-### 🎬 About Movie Details
-![About Movie](screenshots/about_movie.png)
-
-> Make sure to place your actual screenshot images inside a folder named `screenshots/` in your repo.
-
----
-
 ## 🙋‍♂️ Author
 
 Made with ❤️ by [Yash (Yasesvi Reddy Pebbeti)](https://github.com/YOUR_USERNAME)
